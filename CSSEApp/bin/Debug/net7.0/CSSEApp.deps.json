@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CSSEApp/1.0.0": {
+        "dependencies": {
+          "CSSEClass": "1.0.0"
+        },
+        "runtime": {
+          "CSSEApp.dll": {}
+        }
+      },
+      "CSSEClass/1.0.0": {
+        "runtime": {
+          "CSSEClass.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSSEApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CSSEClass/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
